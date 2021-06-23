@@ -8,5 +8,3 @@ Here's a recap on what we'll be making:<br>
 Also... 
 <img src="https://alpaca.net/wp-content/uploads/2014/11/200alpacafacetrans.png" width="50" height="50">
 No judging! When I was making the repository, the space turned into a hyphen! Github did this
-
-
